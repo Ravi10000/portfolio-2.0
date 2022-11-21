@@ -1,9 +1,9 @@
 {
-  "name": "Meyawo",
-  "version": "1.5.0",
-  "description": "An elegant responsive bootstrap 4.x theme.",
+  "name": "Ravi's Portfolio",
+  "version": "2.0",
+  "description": "Portfolio showing my work and creativity",
   "main": "gulpfile.js",
-  "author": "DevCRUD",
+  "author": "Ravi",
   "scripts": {
     "start": "gulp"
   },

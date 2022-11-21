@@ -20,7 +20,7 @@ img {
   margin-bottom: 20px;
   width: 400px;
   border-radius: 5px;
-  border: 1px solid grey;
+  border: 0.5px solid rgb(172, 172, 172);
 }
 
 button {

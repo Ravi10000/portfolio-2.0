@@ -11279,6 +11279,12 @@ p {
   .skills-container{
     width: 900px;
   }
+  .skills-container img{
+    width: 120px;
+    border: 1px solid lightgrey;
+    padding: 25px;
+    border-radius: 5px;
+  }
 }
 /* testmonial card */
 .testimonial-card {
